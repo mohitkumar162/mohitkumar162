@@ -45,7 +45,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues" height="180em"/>
-  <img src="https://streak-stats.demolab.com?user=mohitkumar162&theme=github-dark" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=mohitkumar162&theme=github_dark" height="180em"/>
 </p>
 
 <p align="center">
