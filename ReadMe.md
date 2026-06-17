@@ -45,8 +45,7 @@
 
 ![](https://streak-stats.demolab.com?user=mohitkumar162&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=dark)
-
+![](https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=dark&hide=prs,issues)
 
 # 🏆 GitHub Trophies
 
