@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumar162&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkumar162&layout=compact&theme=radical" height="180em"/>
 </p>
 
 # 🏆 GitHub Trophies
