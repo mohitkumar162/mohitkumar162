@@ -1,8 +1,8 @@
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohitkumar162) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitkr2468@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -41,14 +41,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues" />
 
-# 📈 Contribution Graph
+##📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumar162&theme=github-dark)
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=mohitkumar162&label=Profile%20Views&color=0e75b6&style=for-the-badge)
