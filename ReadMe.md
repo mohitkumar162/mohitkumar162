@@ -45,7 +45,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues)
 
-📈 Contribution Graph
+## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumar162&theme=github-dark)
 
