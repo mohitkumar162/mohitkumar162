@@ -43,9 +43,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues" />
 
 # 📈 Contribution Graph
 
