@@ -51,10 +51,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitkumar162&show_icons=true&theme=github_dark&hide=prs,issues)
 
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/mohitkumar162)
-
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohitkumar162&label=Profile%20Views&color=0e75b6&style=for-the-badge)
