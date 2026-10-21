@@ -53,7 +53,7 @@
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitkumar162&theme=github-dark)
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/mohitkumar162)
 
 ## 👀 Profile Views
 
